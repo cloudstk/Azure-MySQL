@@ -1,1 +1,1 @@
-# Azure-MySQL
+# Azure MySQL
