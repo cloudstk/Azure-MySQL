@@ -1,2 +1,2 @@
-Migrate MySQL server
+Repository for MySQL Server Migration Demos
 --
