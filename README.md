@@ -1,1 +1,2 @@
-# Azure MySQL
+Repository for Azure MySQL Demos
+--
