@@ -1,2 +1,5 @@
 Repository for Azure MySQL Demos
 
+Useful Links
+---
+[Best practices for optimal performance of Azure Database for MySQL servers](https://learn.microsoft.com/en-us/azure/mysql/single-server/concept-performance-best-practices)
