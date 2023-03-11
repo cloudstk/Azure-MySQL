@@ -1,4 +1,4 @@
-Repository for Azure MySQL Demos
+# Repository for Azure MySQL Demos
 
 Useful Links
 ---
